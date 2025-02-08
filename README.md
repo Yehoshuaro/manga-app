@@ -2,6 +2,12 @@
 
 A simple manga reading app built with Flutter and Node.js
 
+### Authors
+- Product Manager: Yerkhan Akhmet
+- Frontend: Liana Smatulla
+- Backend: Ernar Kassen & Nutlybek Mukhamedjan
+- Design: Gaziza Tanirbergen
+
 ## Features  
 - Browse a list of manga  
 - View manga details  
@@ -18,8 +24,4 @@ A simple manga reading app built with Flutter and Node.js
 - Provider for state management  
 - Dio for API requests  
 
-### Authors
--Product Manager: Yerkhan Akhmet
--Frontend: Liana Smatulla
--Backend: Ernar Kassen & Nutlybek Mukhamedjan
--Design: Gaziza Tanirbergen
+
